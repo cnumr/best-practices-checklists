@@ -1,2 +1,3 @@
-# best-practices-checklists
-Checklists associated with the cnumr frameworks
+# Checkists for the CNumR frameworks
+
+Thie repository contains the checklists for the CNumR best practices frameworks.
